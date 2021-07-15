@@ -21,6 +21,5 @@ namespace StarChart
         {
             app.UseMvc();
         }
-        ///sdiuhaisdbasxuckbayfvhj
     }
 }
